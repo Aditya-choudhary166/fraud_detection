@@ -1,6 +1,5 @@
 # 🛡️ FraudShield — Online Bank Fraud Detection System
 
-**B.Tech Project | Artificial Intelligence & Data Science | Bikaner Technical University**
 
 > An intelligent web-based fraud detection system using Machine Learning (Random Forest + Logistic Regression), Flask REST API, React.js frontend, and MySQL database.
 
@@ -192,19 +191,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 👨‍💻 Team
 
-- Aditya Choudhary — Bikaner Technical University
-- Himanshu Garg — Bikaner Technical University
-- Chandra Shekhar — MITRC Alwar
-- Dayachand Prajapat
-- Saurabh Yadav
 
 ---
 
-## 📚 References
-
-- Kaggle PaySim Synthetic Financial Dataset
-- Scikit-learn Documentation
-- Flask Documentation
-- React.js + Vite Documentation
