@@ -1,0 +1,9 @@
+backend/.env
+backend/venv/
+backend/models/
+backend/__pycache__/
+backend/ml/__pycache__/
+frontend/node_modules/
+*.pyc
+*.pth
+*.pkl
